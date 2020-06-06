@@ -13,6 +13,6 @@ jalan("   -----
         ---   ---
     ----|       |----
   --                --
-|--  Damn you son of --|
-|--  a bitch yes,you --|
+|--  Sialan lu goblok --|
+|-- iya lu yang goblok--|
 |______________________|".center(44))
